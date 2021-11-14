@@ -1,4 +1,5 @@
 # Lab 8 - Starter
+## Team Members: Raghav Cherukuru (solo)
 1. Within a Github action that runs whenever code is pushed because it saves a lot of time and makes it easier for testing.
 2. No
 3. We use unit testing for smaller components that do not depend on other components. Hence, you would need a lot of unit tests to test a huge scale messaging application. Unit tests would not be the best approach for testing in this situation.
